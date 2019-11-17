@@ -1,3 +1,4 @@
-# Front_End_React_CSGOGG
+# CSGO.GG
 
-Esports match outcome predictor front end web app created using React Bootstrap.
+Esports game predictor with the goal of predicting the outcomes of professional competitive games.
+
